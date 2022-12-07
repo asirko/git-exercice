@@ -16,5 +16,5 @@ console.log(fnAdd10(3));
 console.log('salut !')
 
 function hello() {
-
+    console.log('')
 }
