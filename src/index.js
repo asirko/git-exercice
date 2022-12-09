@@ -12,3 +12,9 @@ const fnAdd10 = addFactory(10);
 console.log(fnAdd2(3));
 console.log(fnAdd5(3));
 console.log(fnAdd10(3));
+
+console.log('salut !')
+
+function hello() {
+
+}
